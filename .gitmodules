@@ -1,0 +1,12 @@
+[submodule "deps/commandAGI-agent-thunderbolt-000"]
+	path = deps/commandAGI-agent-thunderbolt-000
+	url = https://github.com/commandAGI/commandAGI-agent-thunderbolt-000
+[submodule "deps/commandAGI-agent-synapse-000"]
+	path = deps/commandAGI-agent-synapse-000
+	url = https://github.com/commandAGI/commandAGI-agent-synapse-000
+[submodule "deps/commandAGI-agent-oracle-000"]
+	path = deps/commandAGI-agent-oracle-000
+	url = https://github.com/commandAGI/commandAGI-agent-oracle-000
+[submodule "deps/commandAGI-agent-spec"]
+	path = deps/commandAGI-agent-spec
+	url = https://github.com/commandAGI/commandAGI-agent-spec
